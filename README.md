@@ -2,6 +2,9 @@
 
 ## Content summary
 
+1. Remember to keep your api key in env file
+2. Once started using glitch, check in my codes for dependencies.json. Use the same dependencies you find there
+
 
 
 
